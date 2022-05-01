@@ -1,6 +1,6 @@
 # Lab-Multiple-Classes-Gallery
 
-Task:
+**Task:**
 
 You have been approached by a digital art gallery to build a piece of software to help them manage their artwork and sell pieces to customers. 
 
