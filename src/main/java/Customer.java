@@ -38,8 +38,6 @@ public class Customer {
     }
 
 
-
-
     //Getters + Setters
 
     public String getName() {return name;
